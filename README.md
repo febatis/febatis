@@ -14,4 +14,4 @@ Seja bem-vindo(a), aqui vão algumas coisinhas sobre mim:
 
 - :video_game: Apaixonado por games
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febatis&layout=compact&langs_count=7&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febatis&layout=compact&theme=react">
