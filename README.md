@@ -10,8 +10,6 @@ Seja bem-vindo(a), aqui vão algumas coisinhas sobre mim:
 
 - :book: Foco dos estudos `.js`, `.ts`, `.html`, `.css` e um pouco de `.py`
 
-- :hourglass: Aguardando o check-in da 42SP (Inscrições de 1 a 6 de dezembro, realização dia 8 de dezembro)
-
 - :video_game: Apaixonado por games
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febatis&layout=compact&theme=react">
