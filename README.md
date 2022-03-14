@@ -6,7 +6,7 @@ Seja bem-vindo(a), aqui vão algumas coisinhas sobre mim:
 
 - :computer: Em transição para tech
 
-- :seedling: Atualmente realizando o bootcamp Eduzz Fullstack Developer na DIO
+- :seedling: Bootcamp Eduzz Fullstack Developer realizado na DIO.me
 
 - :book: Foco dos estudos `.js`, `.ts`, `.html`, `.css` e um pouco de `.py`
 
